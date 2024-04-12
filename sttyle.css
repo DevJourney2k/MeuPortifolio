@@ -22,7 +22,7 @@ body {
       height: 200px;
       border-radius: 50%;
       margin: 0 auto;
-      border: 5px solid #ffcc66;
+      border: 5px solid #0073d9;
     }
 
     a {
@@ -113,7 +113,7 @@ body {
  width:100%;
  line-height:40px;
     max-width: 160px; 
- font-size:1em;
+ font-size:1.2em;
  color:#fff; 
  cursor:pointer; 
  display: block;
@@ -121,8 +121,8 @@ body {
     text-align:center; 
     position: relative;
     text-decoration: none;
-    vertical-align: middle;
     float:left; 
+    font-family: monospace;
   
 }
 
@@ -133,7 +133,7 @@ body {
 .btn-efeito {
   overflow:hidden;
   position:relative;
-  background-color:#095599; 
+  background-color:#0073d9; 
 }
 .btn-efeito:hover {
   background-color:#0073d9; 
