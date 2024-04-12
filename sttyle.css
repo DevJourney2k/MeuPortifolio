@@ -43,7 +43,7 @@ body {
 
     .links-container a {
       width: 100%;
-      color: #414345 !important;
+      color: color(srgb-linear 1 0.21 0.07);      
       transition: 0.2s;
     }
 
