@@ -3,9 +3,11 @@ body {
     background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
-a, h1, p {
+a, p {
   font-family: monospace;
   font-size: 20px;
+  color: white;
+  border-bottom: #0073d9;
 }
     .container {
       width: 100%;
