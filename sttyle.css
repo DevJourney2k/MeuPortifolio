@@ -3,11 +3,11 @@ body {
     background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
-a, p {
-  font-family: monospace;
-  font-size: 20px;
-  color: white;
-  border-bottom: #0073d9;
+   p {
+      font-family: monospace;
+      font-size: 20px;
+      color: white;
+      border-bottom: #0073d9;
 }
     .container {
       width: 100%;
@@ -61,6 +61,7 @@ a, p {
       margin-top: 15px !important;
     }
 
+
     .profession span {
       font-size: 14px;
     }
@@ -74,7 +75,7 @@ a, p {
 
     .icons a {
       text-decoration: none;
-      color: #004aad;
+      color: #000;
 
     }
 
@@ -90,6 +91,7 @@ a, p {
     .contact {
       text-align: center;
       color: #fdf5e6;
+      padding: 20px;
     }
 
     .contact .info {
@@ -194,10 +196,12 @@ a, p {
       
       .bio {
         font-size: 15px;
+  
       }
-      footer>End {
-        font-size:19px;
-        text-align:center;
-        color:white;
-      }
+    }
+    .End{
+      font-family: monospace;
+      text-align: center;
+      padding: 120px;
+
     }
