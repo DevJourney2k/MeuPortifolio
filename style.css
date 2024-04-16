@@ -209,3 +209,9 @@ body {
       padding: 120px;
 
     }
+
+    article {
+      font-family: monospace;
+      color: #fff;
+      text-align: center;
+    }
