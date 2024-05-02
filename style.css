@@ -21,7 +21,7 @@ p {
   font-size: 17px;
   color: white;
   border-bottom: #0073d9;
-  padding: 20px;
+  padding: 0px;
 }
 
 .container {
@@ -130,7 +130,7 @@ a {
 .contact {
   text-align: center;
   color: #fdf5e6;
-  padding: 20px;
+  padding: 0px;
   font-family: monospace;
   background-color: #0073d9;
 }
@@ -140,7 +140,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 15px;
+  gap: 0px;
 }
 
 .contact .info span {
