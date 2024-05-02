@@ -264,7 +264,7 @@ article{
   text-align: center;
   padding-bottom: 10px;
   margin-bottom: 5px;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 article>h1,h2 {
@@ -273,6 +273,7 @@ article>h1,h2 {
   font-size: 20px;
   color: white;
   font-style: italic;
+  text-align: center;
 }
 
 .info1 {
